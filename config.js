@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['AzwanBot-MD']
+global.namabot = ['DikaBot-MD']
 global.namaowner = ['YahyaGanzz']
 global.owner = ['6288212514602']
 global.premium = ['6288212513602']
